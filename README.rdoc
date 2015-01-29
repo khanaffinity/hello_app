@@ -5,23 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Learning branching in Git using changes in this readme file.
+* once I make these changes I will create anther branch with Git using the Git checkout -b <branch name>
+* checkout -b creates and switches to the branch - meaning the files in your repository are modified when you run rails commands
+* the original code will stay as another branch in git and we can switch to it with some command I don't know at the moment
+* git branch will tell you the existng branches and the currnt branch is marked with an "*""
 
 
 Please feel free to use a different markup language if you do not plan to run
